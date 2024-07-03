@@ -14,6 +14,11 @@ This repository contains the code for the NEURASMUS program. The code were prese
 
 Use the notebook provided in the `hackathon` folder to get started with the mini-hackathon. If using Google Colab, you need to make sure that you have access to the data files. You can do this by mounting your Google Drive and copying the data files to your Google Drive.
 
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/hackathon/notebooks/calcium-analysis.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 ## Day 2
 
 *Simple models of neural activity*
