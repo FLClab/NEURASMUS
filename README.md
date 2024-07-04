@@ -54,4 +54,14 @@ Once the notebook is open, you can run the following code to copy the data files
 
 ## Day 4
 
-TBW
+*Actin segmentation with deep learning*
+
+<a target="_blank" href="https://colab.research.google.com/drive/17swtK6LeynRZHEg-lTaGqTl8uOK7wlfS?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+*Calcium analysis with deep learning*
+
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/Calcium-Analysis/blob/main/CalciumUNet3D_ZeroCostDL4Mic.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
