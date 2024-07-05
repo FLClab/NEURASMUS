@@ -6,7 +6,7 @@ This repository contains the code for the NEURASMUS program. The code were prese
 
 *Introduction to scientific programming with Python*
 
-<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/python-introduction.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/python-introduction.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -28,13 +28,13 @@ Once the notebook is open, you can run the following code to copy the data files
 
 *Simple models of neural activity*
 
-<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/Neurasmus_Model_Neural_Activity.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus_Model_Neural_Activity.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 *Brain-scale and connectome based-modeling*
 
-<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/neurasmus_graph_theory.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/neurasmus_graph_theory.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -42,13 +42,13 @@ Once the notebook is open, you can run the following code to copy the data files
 
 *Activity and memory in neuronal networks*
 
-<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/neurasmus_dynamical_networks.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/neurasmus_dynamical_networks.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 *Mathematical models of synapses*
 
-<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/Neurasmus_synapse.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus_synapse.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
