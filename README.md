@@ -60,8 +60,16 @@ Once the notebook is open, you can run the following code to copy the data files
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+### Research applications
+
 *Calcium analysis with deep learning*
 
 <a target="_blank" href="https://colab.research.google.com/github/FLClab/Calcium-Analysis/blob/main/CalciumUNet3D_ZeroCostDL4Mic.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+*Activity and memory in neural networks*
+
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus2024_Research_application_zebrafish.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
