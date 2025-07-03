@@ -26,8 +26,50 @@ Once the notebook is open, you can run the following code to copy the data files
 
 ## Day 2
 
-*Models of neural activity*
+*Simple models of neural activity*
 
-<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus_Model_Neural_Activity2025.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus_Model_Neural_Activity.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+*Brain-scale and connectome based-modeling*
+
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/neurasmus_graph_theory.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+## Day 3
+
+*Activity and memory in neuronal networks*
+
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/neurasmus_dynamical_networks.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+*Mathematical models of synapses*
+
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus_synapse.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+## Day 4
+
+*Actin segmentation with deep learning*
+
+<a target="_blank" href="https://colab.research.google.com/drive/17swtK6LeynRZHEg-lTaGqTl8uOK7wlfS?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+### Research applications
+
+*Calcium analysis with deep learning*
+
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/Calcium-Analysis/blob/main/CalciumUNet3D_ZeroCostDL4Mic.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+*Zebrafish brain data analysis*
+
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus2024_Research_application_zebrafish.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
