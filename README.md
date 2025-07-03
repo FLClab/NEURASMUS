@@ -1,6 +1,6 @@
 # NEURASMUS
 
-This repository contains the code for the NEURASMUS program. The code were presented during a neurocomputational workshop in 2024.
+This repository contains the code for the NEURASMUS program. The code were presented during the last edition of the  Neurocomputational Workshop in Berlin, July 2nd-5th 2025.
 
 ## Day 1
 
@@ -35,5 +35,13 @@ Once the notebook is open, you can run the following code to copy the data files
 *Graph-based methods for brain networks*
 
 <a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus2025_structural_functional_connectivity_tutorial.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+## Day 3
+
+*Attractors and Hopfield networks*
+
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus2025_dynamical_networks.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
