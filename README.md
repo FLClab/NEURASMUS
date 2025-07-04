@@ -45,3 +45,9 @@ Once the notebook is open, you can run the following code to copy the data files
 <a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus2025_dynamical_networks.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+*Network motifs*
+
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus2025structure_function.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
