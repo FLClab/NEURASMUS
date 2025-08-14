@@ -1,6 +1,6 @@
 # NEURASMUS
 
-This repository contains the code for the NEURASMUS program. The code were presented during the last edition of the  Neurocomputational Workshop in Berlin, July 2nd-5th 2025.
+This repository contains the code for the NEURASMUS program. The code were presented during the last edition of the  Neurocomputational Workshop in Berlin, July 2nd-5th 2025. 
 
 ## Day 1
 
