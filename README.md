@@ -1,6 +1,6 @@
 # NEURASMUS
 
-This repository contains the code for the NEURASMUS program. The code was presented during the last edition of the Orientation Week in Bordeaux, August 18th-23rd 2025.
+This repository contains the code for the NEURASMUS program. The code was presented during the orientation week of the NEURASMUS program, which took place on August 21st/22nd, 2025. 
 
 ## Day 1
 
