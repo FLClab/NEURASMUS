@@ -28,7 +28,7 @@ Once the notebook is open, you can run the following code to copy the data files
 
 *Graph-based methods for brain networks*
 
-<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus2025_structural_functional_connectivity_tutorial.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/structural_functional_connectivity_tutorial_Bordeaux2026.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
