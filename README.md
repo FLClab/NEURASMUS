@@ -34,6 +34,13 @@ Once the notebook is open, you can run the following code to copy the data files
 
 ## Day 3
 
+*Dynamical recurrent neural networks*
+
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/dynamical_networks_Bordeaux2026.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 *Network motifs*
 
 <a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/notebooks/Neurasmus2025structure_function.ipynb">
