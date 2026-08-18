@@ -51,3 +51,38 @@ Once the notebook is open, you can run the following code to copy the data files
 ## Day 4
 
 TBD
+
+
+# Neuro/Open Science Neurasmus 
+
+## Day 1
+
+We start off by getting a grasp of what a notebook is using Google Colab 
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/LLM-prompting-notebook/intro_notebooks/intro_to_notebook_tutorial.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Then we make an introduction to programming with a Python introduction course
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/LLM-prompting-notebook/notebooks/python-introduction.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+## Day 2 
+
+Python intro continuation <a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/LLM-prompting-notebook/notebooks/python-introduction.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+Using Large Language Models (LLM) to code
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/LLM-prompting-notebook/intro_notebooks/intro_to_LLM_prompting.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+## Day 3
+
+Hackaton. We challenge ourself and try to make use of the Python concepts we just learned.
+
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/NEURASMUS/blob/main/hackathon/notebooks/calcium-analysis.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
